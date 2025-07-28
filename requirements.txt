@@ -1,0 +1,9 @@
+pandas
+numpy
+psycopg2
+streamlit
+openpyxl
+XlsxWriter
+google-api-python-client
+google-auth-oauthlib
+google-auth-requests
